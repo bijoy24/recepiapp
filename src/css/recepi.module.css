@@ -1,0 +1,12 @@
+.singlerecepi{
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(73, 70, 70);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    min-width: 40%;
+    background: white;
+    padding: 20px;
+}
